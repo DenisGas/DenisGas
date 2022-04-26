@@ -1,7 +1,7 @@
 ## Hi
 - 👋 Hi, I’m @DenisGas
 - 👀 I’m know a HTML5 and CSS3 well
-- 🌱 I’m currently learning PHP and JS
+- 🌱 I’m currently study in a TheOdinProject
 
 ## ME
 <a href='https://svgshare.com/s/Vtv' ><img src='https://svgshare.com/i/Vtv.svg' title='DenGas-ico' /></a>
