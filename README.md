@@ -1,11 +1,33 @@
-## Hi
-- 👋 Hi, I’m @DenisGas
-- 🌱 I’m currently study in a TheOdinProject
-- ❤️ Web and python dev
-<!---
-## ME
-<a href='https://svgshare.com/s/Vtv' ><img src='https://svgshare.com/i/Vtv.svg' title='DenGas-ico' /></a>
+<h1>Hi there, I'm <a href="https://github.com/DenisGas" target="_blank">Den</a> 
+<img src="./img/Hi.gif" height="32"/></h1>
+<h3>Software engineering student from Ukraine 🇺🇦</h3>
 
-DenisGas/DenisGas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>I’m currently study in a TheOdinProject, CodeWars and LeetCode</p>
+
+<br>
+  
+<div>
+  <p>Languages</p>
+  <img  height="56" src="./img/langs/js.png" alt ='js'>
+  <img  height="56" src="./img/langs/py.png" alt ='python'>
+</div>
+
+<br>
+<br>
+
+<div>
+  <p>Tools</p>
+  <img  height="56" src="./img/tools/node-js.png" alt ='codewars'>
+  <img  height="56" src="./img/tools/git.png" alt ='git'>
+  <img  height="56" src="./img/tools/scss.png" alt ='scss'>
+</div>
+
+<br>
+<br>
+
+<div>
+ <p>Codewars Stats</p>
+   <a target="_blank" href = "https://www.codewars.com/users/DenisGas">
+    <img src="https://www.codewars.com/users/DenisGas/badges/large" alt ='codewars'>
+  </a>
+</div>
