@@ -2,9 +2,13 @@
 <img src="./img/Hi.gif" height="32"/></h1>
 <h3>Software engineering student from Ukraine 🇺🇦</h3>
 
+<br>
+
 <p>I’m currently study in a TheOdinProject, CodeWars and LeetCode</p>
 
 <br>
+
+---
   
 <div>
   <p>Languages</p>
@@ -23,15 +27,15 @@
 </div>
 
 <br>
+
+---
+
 <br>
+
+
 
 <div>
    <a target="_blank" href = "https://www.codewars.com/users/DenisGas">
     <img src="https://www.codewars.com/users/DenisGas/badges/large" alt ='codewars'>
   </a>
 </div>
-
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisGas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
