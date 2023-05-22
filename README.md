@@ -26,8 +26,12 @@
 <br>
 
 <div>
- <p>Codewars Stats</p>
    <a target="_blank" href = "https://www.codewars.com/users/DenisGas">
     <img src="https://www.codewars.com/users/DenisGas/badges/large" alt ='codewars'>
   </a>
 </div>
+
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisGas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
