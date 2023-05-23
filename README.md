@@ -14,6 +14,7 @@
   <p>Languages</p>
   <img  height="56" src="./img/langs/js.png" alt ='js'>
   <img  height="56" src="./img/langs/py.png" alt ='python'>
+   <img  height="56" src="./img/langs/c-.png" alt ='cpp'>
 </div>
 
 <br>
