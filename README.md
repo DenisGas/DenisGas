@@ -28,6 +28,17 @@
 </div>
 
 <br>
+<br>
+
+<div>
+  <p>IDE</p>
+  <img  height="56" src="./img/IDE/vscode.png" alt ='vscode'>
+  <img  height="56" src="./img/IDE/pycharm.png" alt ='pycharm'>
+  <img  height="56" src="./img/IDE/vs.png" alt ='visual studio'>
+
+</div>
+
+<br>
 
 ---
 
