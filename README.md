@@ -50,4 +50,12 @@
    <a target="_blank" href = "https://www.codewars.com/users/DenisGas">
     <img src="https://www.codewars.com/users/DenisGas/badges/large" alt ='codewars'>
   </a>
+ 
+  <br>
+  <br>
+  
+   <a target="_blank" href = "https://leetcode.com/DenisGas/">
+     <img src="https://leetcode-stats-six.vercel.app/?username=DenisGas&theme=dark" alt ='leetcode'>
+   </a>
+  
 </div>
