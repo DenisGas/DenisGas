@@ -16,7 +16,7 @@
 
 <br><br>
 
-### Projects In Work
+### Current Projects
 
 | [Jutsu-Next-Series](https://github.com/DenisGas/jut.su_next-series) <br> ![Jutsu-Next-Series](/assets/project-preview/JNS-chrome.png) | [nik-to-link](https://github.com/DenisGas/nik-to-link) <br> ![nik-to-link](/assets/project-preview/NikToLink.png) |
 |----------|----------|
