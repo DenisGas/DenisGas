@@ -48,9 +48,7 @@
   <br>
   <br>
 
-   <a target="_blank" href = "https://leetcode.com/DenisGas/">
-     <img src="https://leetcode-stats-six.vercel.app/?username=DenisGas&theme=dark" alt ='leetcode'>
-   </a>
+   [![Leetcode Stats](https://leetcard.jacoblin.cool/DenisGas)](https://leetcode.com/DenisGas)
 
 
 
