@@ -21,7 +21,8 @@
 | [Jutsu-Next-Series](https://github.com/DenisGas/jut.su_next-series) <br> ![Jutsu-Next-Series](/assets/project-preview/JNS-chrome.png) | [nik-to-link](https://github.com/DenisGas/nik-to-link) <br> ![nik-to-link](/assets/project-preview/NikToLink.png) |
 |----------|----------|
 
-
+| [CrxDownloader-PS](https://github.com/DenisGas/CrxDownloader-PS) <br> ![Jutsu-Next-Series](https://github.com/user-attachments/assets/5b85786c-291e-4035-b921-9e3bc69a18b7) |
+|----------|
 ### My GitHub Stats
 
 <table>
