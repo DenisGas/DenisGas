@@ -9,7 +9,7 @@
 <br>
 
 <pre>
-  📖 JS | C# | C++ | PYTHON | REACT  
+  📖 JS | C# | C++ | PYTHON  
   ❤️ Games • Anime • Code • Design   
   ☕ coffe-late coffe-mocha capuchino
 </pre>
